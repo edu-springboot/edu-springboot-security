@@ -1,0 +1,1 @@
+INSERT INTO Students VALUES ( 2, 'Manty', 100);
